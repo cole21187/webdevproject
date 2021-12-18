@@ -1,0 +1,27 @@
+.myBackground{
+    background-color: rgb(38, 53, 95);
+    width: 80%;
+}
+
+.navigationStyle{
+    background-color: rgb(255, 255, 255);
+    font-size: x-large;
+    height: 10%;
+}
+
+.graphtitle{
+    color:white;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.footerstyle{
+    color:white;
+    text-align: center;    
+}
+
+h4{
+    color:white;
+    text-align: center;
+
+}
